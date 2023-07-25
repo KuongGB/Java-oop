@@ -1,0 +1,5 @@
+Dog  D001|Diep      |Red       |90.00|Vong Kim loai
+Dog  D002|Quan      |Green     |80.00|Vong bach kim
+Cat  C001|Cuong     |Brown     |70.00|Ruy bang lua
+Cat  C002|Tung      |Blue      |100.00|Ruy bang vai
+Dog  D005|cuong     |cuong     |45.00|cuong     
